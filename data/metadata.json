@@ -1,0 +1,12 @@
+{
+  "title": "Fortinet NSE7 Secure Networking Practice (Converted)",
+  "domains": {
+    "VPN": 0.25,
+    "Routing": 0.2,
+    "Security Profiles": 0.2,
+    "System Troubleshooting": 0.15,
+    "Authentication": 0.1,
+    "Fabric & HA": 0.1
+  },
+  "notes": "Study-oriented weights; override with --weights as needed."
+}
